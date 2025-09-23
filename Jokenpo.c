@@ -66,10 +66,10 @@ int main (){
              (escolhaJogador == 3) && (escolhaComputador == 2))
 
     {
-        printf("Você ganhou, PARABÉNS!\n");
+        printf("Você ganhou!\n");
     }else {
 
-        printf("Você perdeu, INFELIZMENTE!\n");
+        printf("Você perdeu!\n");
     }
     
 
