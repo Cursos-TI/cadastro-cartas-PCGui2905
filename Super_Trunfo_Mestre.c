@@ -11,8 +11,7 @@ int main (){
     float densidade1;
     float pibperCapita1;
     unsigned long int pontosTuristicos1;
-    float superPoder2;
-
+    
     char estado2;
     char codigo2 [4];
     char nomeCidade2 [20];
@@ -22,7 +21,7 @@ int main (){
     float densidade2;
     float pibperCapita2;
     unsigned long int pontosTuristicos2;
-    float superPoder2;
+  
 
     printf("CADASTRO DAS CARTAS\n");
     printf("-----------------------------------------\n");
