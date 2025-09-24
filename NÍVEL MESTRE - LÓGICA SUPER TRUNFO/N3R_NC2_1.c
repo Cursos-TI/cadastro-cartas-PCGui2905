@@ -25,6 +25,9 @@ int main (){
 
         if (nota1 >= 0 && nota1 <= 10 && nota2 >= 0 && nota2 <= 10){
         media = (nota1 + nota2) / 2;
+        // Validação das notas: cada nota deve estar entre 0 e 10;
+        // Se válidas: Calcula a média (nota1 + nota2) / 2 e Mostra a média com duas casas decimais (%.2f);
+        //Se inválidas: Imprime mensagem de err;
             printf("a media é %.2f\n", media);
         } else {
             printf("Entrada com Valores Inválidos!\n");
