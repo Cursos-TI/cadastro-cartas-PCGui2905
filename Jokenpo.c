@@ -13,7 +13,7 @@ int main (){
     printf("------------------------------------\n");
 
     printf("Jogo de Jokenpô/n");
-    printf("Escolha uma opção abaixo:\n");
+    printf("/nEscolha uma opção abaixo:\n");
     printf("1. Pedra\n");
     printf("2. Papel\n");
     printf("3. Tesoura\n");
